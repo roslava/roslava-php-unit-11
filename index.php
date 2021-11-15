@@ -37,6 +37,7 @@
         <?php
         echo '<pre>';
         echo(t3('./one/book2.csv'));
+//        print_r(t3('./one/book2.csv'));
         echo '</pre>';
         ?>
     </section>
